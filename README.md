@@ -1,6 +1,6 @@
 # SenseYou
 
-<img src="icone/icon.png/>
+<img src="assets/icone/icon.png" width="80" style="vertical-align: middle;">
 <p align="center">SenseYou</p>
 
 # Descrição do Projeto
