@@ -1,5 +1,5 @@
 # SenseYou
-
+<br>
 <p align="center"><img src="assets/icone/icon.png" width="80" style="vertical-align: middle;"></p>
 <p align="center">SenseYou</p>
 
