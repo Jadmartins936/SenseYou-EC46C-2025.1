@@ -21,7 +21,7 @@
   [<img src="https://avatars.githubusercontent.com/u/101212530?v=4" width=115><br><sub>Eduardo Diniz</sub>](https://github.com/Edudiniz22) |
   [<img src="https://avatars.githubusercontent.com/u/138416145?v=4" width=115><br><sub>Fernando Souza</sub>](https://github.com/FerSouzza)
   
-| :---: | :---: | :---: | 
+| :---: | :---: | :---: 
 
 - Desenvolvimento ágil, 1º semestre de 2025
 
