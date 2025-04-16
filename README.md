@@ -1,6 +1,6 @@
 # SenseYou
 
-<p align="center"><img src="icone/icon.png/></p>
+<img src="icone/icon.png/>
 <p align="center">SenseYou</p>
 
 # Descrição do Projeto
