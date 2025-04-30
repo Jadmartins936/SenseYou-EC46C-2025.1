@@ -13,44 +13,33 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         </tr>
     </thead>
     <tbody>
+        <!-- História US05 -->
         <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US01</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como professor, quero identificar sinais de ansiedade nos alunos durante aulas online</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US05</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como visitante do site de divulgação, desejo compreender rapidamente como o sistema identifica ansiedade e burnout em reuniões online, para decidir se é relevante para minha instituição.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">
                 <ol>
-                    <li>O sistema deve detectar expressões faciais e posturas</li>
-                    <li>Alertas devem ser enviados automaticamente</li>
-                    <li>O processo deve ser integrado à plataforma usada</li>
+                    <li>A página inicial deve explicar em linguagem simples o funcionamento da IA (ex: "detecta expressões faciais e posturas associadas ao estresse").</li>
+                    <li>Deve incluir um vídeo de demonstração ou infográfico interativo.</li>
+                    <li>Deve destacar os benefícios-chave em até 3 bullets na primeira seção.</li>
                 </ol>
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF01</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF01, RNF02</td>
         </tr>
+        <!-- História US06 -->
         <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US02</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como coordenador, quero acessar relatórios semanais sobre a saúde mental dos alunos</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US06</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como professor, devo conhecer o produto para avaliar como ele pode ajudar a identificar sinais de ansiedade e burnout em meus alunos durante aulas online.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">
                 <ol>
-                    <li>Os relatórios devem ser gerados semanalmente</li>
-                    <li>Devem incluir métricas visuais e textuais</li>
-                    <li>Relatórios devem ser exportáveis em PDF</li>
-                </ol>
-            </td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF03, RNF02</td>
-        </tr>
-        <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US03</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como gestor, quero garantir que o sistema respeite a privacidade dos dados dos usuários</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">
-                <ol>
-                    <li>Dados devem ser criptografados</li>
-                    <li>Acesso deve ser controlado por níveis de permissão</li>
-                    <li>O sistema deve seguir a LGPD</li>
+                    <li>A página deve oferecer uma seção detalhada explicando o funcionamento da IA (ex: detecção de expressões faciais e postura).</li>
+                    <li>Deve incluir exemplos práticos de uso em salas de aula virtuais (ex: capturas de tela ou vídeos curtos).</li>
+                    <li>Deve disponibilizar materiais de apoio (ex: guia rápido, FAQ) para download imediato.</li>
                 </ol>
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF01</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF01, RNF02</td>
         </tr>
     </tbody>
 </table>
