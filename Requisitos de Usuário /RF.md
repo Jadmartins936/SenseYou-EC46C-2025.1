@@ -4,12 +4,10 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |              O usuário deve poder personalizar seu ambiente.              |  Média     |    RF12     |
-| RF02 |           O usuário deve poder acessar o seu progresso no jogo.           |  Alta      |      RF25   |
-| RF03 |              O usuário deve poder acessar seu nível no jogo.              |  Baixa     |     -       |
-| RF04 |                 O usuário deve poder ver suas conquistas.                 |            |             |
-| RF05 |        O usuário deve poder escolher a dificuldade de suas lições.        |            |             |
-| RF06 |       O usuário deve poder determinar metas diárias a ser comprida.       |            |             |
+| RF01 |              O usuário deve captar o objetivo do produto.                 |  Média     |    RF12     |
+| RF02 |           O usuário deve poder acessar a ferramenta.                      |  Alta      |    RF25     |
+| RF03 |              O usuário deve poder conhecer sobre a ferramenta.            |  Baixa     |     -       |
+| RF04 |                 O usuário deve poder compartilhar a ideia.                |            |             |
 
 
 <div style="text-align: center">
