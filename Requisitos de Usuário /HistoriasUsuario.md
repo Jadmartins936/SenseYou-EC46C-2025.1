@@ -15,7 +15,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
     <tbody>
         <!-- História US05 -->
         <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US05</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US01</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como visitante do site de divulgação, desejo compreender rapidamente como o sistema identifica ansiedade e burnout em reuniões online, para decidir se é relevante para minha instituição.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">
                 <ol>
@@ -29,7 +29,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         </tr>
         <!-- História US06 -->
         <tr>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US06</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US02</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como professor, devo conhecer o produto para avaliar como ele pode ajudar a identificar sinais de ansiedade e burnout em meus alunos durante aulas online.</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">
                 <ol>
