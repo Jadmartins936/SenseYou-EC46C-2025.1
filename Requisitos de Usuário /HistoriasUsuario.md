@@ -1,4 +1,3 @@
-
 # 1. História de Usuário
 
 A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas. 
@@ -15,29 +14,45 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
     </thead>
     <tbody>
         <tr>
-            <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US01</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero poder assitir vídeos para meu entreterimento</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Ao entrar no aplicativo o vídeo já deve aparecer na página inicial</li><li> A tela do vídeo deve estar maximizada na tela do celular</li><li>Os vídeos devem aparecer em sequência</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US01</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como professor, quero identificar sinais de ansiedade nos alunos durante aulas online</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">
+                <ol>
+                    <li>O sistema deve detectar expressões faciais e posturas</li>
+                    <li>Alertas devem ser enviados automaticamente</li>
+                    <li>O processo deve ser integrado à plataforma usada</li>
+                </ol>
+            </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF07</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF01</td>
         </tr>
         <tr>
-            <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US02</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, desejo ter um perfil para interagir com outros na plataforma</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>As informações do usuário devem estar evidentes</li><li> O perfil pode ser privado ou público</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"> Baixa </td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF10</td>
-        </tr>
-        <tr>
-            <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US03</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário regular, desejo acessar os outros perfis existentes para ver o conteúdo deles</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>As informações do usuário devem estar evidentes aos visitantes</li><li> Os vídeos postados devem aparecer ao entrar no perfil para que seja possível seu acesso</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US02</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como coordenador, quero acessar relatórios semanais sobre a saúde mental dos alunos</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">
+                <ol>
+                    <li>Os relatórios devem ser gerados semanalmente</li>
+                    <li>Devem incluir métricas visuais e textuais</li>
+                    <li>Relatórios devem ser exportáveis em PDF</li>
+                </ol>
+            </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">-</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF03, RNF02</td>
         </tr>
+        <tr>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US03</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como gestor, quero garantir que o sistema respeite a privacidade dos dados dos usuários</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">
+                <ol>
+                    <li>Dados devem ser criptografados</li>
+                    <li>Acesso deve ser controlado por níveis de permissão</li>
+                    <li>O sistema deve seguir a LGPD</li>
+                </ol>
+            </td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RNF01</td>
+        </tr>
+    </tbody>
 </table>
 
 <div style="text-align: center">
