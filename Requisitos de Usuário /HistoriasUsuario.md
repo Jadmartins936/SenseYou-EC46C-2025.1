@@ -40,6 +40,22 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF01, RNF02</td>
+        </tr>     <!-- História US05 -->
+        <tr>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US01</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Eu, como educador desejo conhecer sobre os benefícios da ferrmaneta na educação e como ela funciona.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">
+                <ol>
+                    <li>A página inicial deve explicar em linguagem simples o funcionamento da IA (ex: "detecta expressões faciais e posturas associadas ao estresse") e destacar os benefícios na educação em uma seção específica.</li>
+                    <li>Deve trazer informações relevantes sobre os transtornos a serem identificados.</li>
+                    <li>Deve apresentar de que modo a ferrmaneta ajuda e os efeitos do seu uso</li>
+                    <li>Deve apresentar uma lista de benefícios objetivos para facilitar a compreensão rápida e visual</li>
+                    <li>Deve trazer gráficos relativos ao uso da plataforma na educação</li>
+                    <li>Deve trazer imagens da página de dashboard do adminastrador da plataforma</li>
+                </ol>
+            </td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF01, RNF02</td>
         </tr>
     </tbody>
 </table>
