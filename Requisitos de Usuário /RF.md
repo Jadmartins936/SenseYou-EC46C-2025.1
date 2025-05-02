@@ -4,10 +4,17 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |              O usuário deve captar o objetivo do produto.                 |  Média     |    RF12     |
-| RF02 |           O usuário deve poder acessar a ferramenta.                      |  Alta      |    RF25     |
-| RF03 |              O usuário deve poder conhecer sobre a ferramenta.            |  Baixa     |     -       |
-| RF04 |                 O usuário deve poder compartilhar a ideia.                |            |             |
+| RF01 |              O usuário deve captar o objetivo do produto.                 |  Alta      |     -       |
+| RF02 |              O usuário deve poder acessar a ferramenta.                   |  Alta      |     -       |
+| RF03 |              O usuário deve poder conhecer sobre a ferramenta.            |  Alta      |     -       |
+| RF04 |              O usuário deve poder compartilhar a ideia e o site.          |  Alta      |     -       |
+| RF05 |              O usuário deve poder entrar em contato com a empresa         |  Média     |     -       |
+| RF06 | A página deve ter um formulário com campos com email, celular e mensagem  |  Média     |     RF05    |
+| RF07 |      A página deve retornar uma mensagem de confirmação do envio          |  Alta      |     RF06    |
+| RF08 |              A página deve conter imagens, gráficos ou vídeos             |  Média     |     RF03    |
+| RF09 |              A página deve conter feedbacks de usuários                   |  Média     |     RF03    |
+| RF10|              A página deve ter um botão de chamada para ação               |  Alta      |     RF05    |
+
 
 
 <div style="text-align: center">
