@@ -4,8 +4,8 @@
 
 | ID   |                                 Requisito NF                              | Categoria/Tipo | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
-| RF01 |  O usuário deve ser capaz de finalizar a compra com menos de 3 cliques na página. | Produto/Usabilidade               |Média       |    RNF12             |
-| RF02 |  O executável do sistema não deve ser superior a 512 Kbytes.     |  Produto/eficiência     |Alta        |    RF8              |
+| RF01 |  O usuário deve ser capaz de finalizar a compra com menos de 3 cliques na página. | Produto/Usabilidade               |Média       |    -             |
+| RF02 |  O executável do sistema não deve ser superior a 512 Kbytes.     |  Produto/eficiência     |Alta        |    -              |
 | RF03 |  O sistema deve ser implementado em HTML e CSS              |  Organizacionais/Implementação       |Baixa       |     -               |
 | RF04 |  O sistema deve ser responsivo              |  Implementação       |Baixa       |     -               |
 | RF05 |  A landing page deve estar disponível 24h por dia              |  Desenvolvimento       |Alta       |     -               |
