@@ -12,7 +12,7 @@
 
 <ul>
   <li><a href="Requisitos de Usuário/RF.md">Prototipação</a></li>
-  <li><a href="Requisitos de Usuário/RF.md">Requisitos de usuários</a></li>
+ [Requisitos de Usuário](https://github.com/Jadmartins936/SenseYou-EC46C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio%20/RF.md)
   <li><a href="Requisitos de Usuário/RNF.md">Requisitos de sistema</a></li>
 </ul>
 
