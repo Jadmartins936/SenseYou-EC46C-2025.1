@@ -11,10 +11,11 @@
 <p> O público alvo da plataforma são profissionais ou órgãos de escolas públicas e privadas de ensino, podendo ser professores, diretores, coordenadores ou profissionais públicos da secretaria de ensino da rede municipal e/ou estadual.</p>
 
 <ul>
-  <li><a href="Requisitos de Usuário/RF.md">Prototipação</a></li>
   
- [Requisitos de Usuário](https://github.com/Jadmartins936/SenseYou-EC46C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio%20/RF.md)
-  <li><a href="Requisitos de Usuário/RNF.md">Requisitos de sistema</a></li>
+📄 [Requisitos de Usuário](https://github.com/Jadmartins936/SenseYou-EC46C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio%20/RF.md)  
+📝 [Histórias de Usuário](https://github.com/Jadmartins936/SenseYou-EC46C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio%20/HistoriasUsuario.md)  
+⚙️ [Requisitos Não Funcionais](https://github.com/Jadmartins936/SenseYou-EC46C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio%20/RNF.md)
+
 </ul>
 
 # Lista de Integrantes
