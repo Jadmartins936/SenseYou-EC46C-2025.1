@@ -13,8 +13,11 @@
 <ul>
   
 📄 [Requisitos Funcionais](https://github.com/Jadmartins936/SenseYou-EC46C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio%20/RF.md)  
-📝 [Histórias de Usuário](https://github.com/Jadmartins936/SenseYou-EC46C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio%20/HistoriasUsuario.md)  
+
+📝 [Histórias de Usuário](https://github.com/Jadmartins936/SenseYou-EC46C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio%20/HistoriasUsuario.md)
+
 ⚙️ [Requisitos Não Funcionais](https://github.com/Jadmartins936/SenseYou-EC46C-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio%20/RNF.md)
+
 📱 [Protótipo](https://www.figma.com/design/b1e03Uh9K47PkQi8GnvLX9/LD_SenseYou?node-id=0-1&t=6IxgOtucMGx9WWGb-1)
 
 </ul>
