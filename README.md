@@ -24,7 +24,7 @@
 
 # Lista de Integrantes
 
-| [<img src="https://avatars.githubusercontent.com/u/171989995?v=4" width=115><br><sub>Jad Martins</sub>](https://github.com/Jadmartins936?tab=repositories) | | [<img src="https://avatars.githubusercontent.com/u/138416145?v=4" width=115><br><sub>Fernando Souza</sub>](https://github.com/FerSouzza) |
+| [<img src="https://avatars.githubusercontent.com/u/171989995?v=4" width=115><br><sub>Jad Martins</sub>](https://github.com/Jadmartins936?tab=repositories) | [<img src="https://avatars.githubusercontent.com/u/138416145?v=4" width=115><br><sub>Fernando Souza</sub>](https://github.com/FerSouzza) |
 | :---: | :---: |
 
 - Desenvolvimento ágil, 1º semestre de 2025
