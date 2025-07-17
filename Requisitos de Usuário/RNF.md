@@ -12,7 +12,7 @@
 | RF06 |  A landing page deve ser compatível com navegadores como Opera, Chrome, Safari, Firefox e Edge             |  Desenvolvimento       |Alta       |     -               |
 | RF07 | Evitar conteúdo que pisque ou cause desconforto sensorial  |  Desenvolvimento       | Média       |     -               |
 | RF08 |  A landing page deve Possuir alto contraste             |  Interface       |Média       |     -               |
-| RF09 |  A landing page deve texto visível            |  Desenvolvimento       |Alta       |     -               |
+| RF09 |  O texto da landing page deve estar a 24px           |  Desenvolvimento       |Alta       |     -               |
 | RF010 |  A landing page deve texto alternativo para elementos visuais            |  Desenvolvimento       |Baixa       |     -               |
 | RF011|  A landing page deve possuir a ferramenta Vlibras            |  Desenvolvimento       |Baixa       |     -               |
 | RF012 |  A landing page deve possuir títulos hierarquícos (h1, h2,h3)            |  Desenvolvimento       |Alta      |     -               |
